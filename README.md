@@ -6,13 +6,13 @@
   % , percentage
   ^ , exponent
   & , an
-  * , asterisk, multiply
+  \* , asterisk, multiply
   ( , opening bracket, parenthesis
   ) , closing bracket, parenthesis
-  - , minus, sutraction, dash
+  \- , minus, sutraction, dash
   _ , underscore
   = , equals
-  + , addition, plus
+ \+ , addition, plus
 
 # Links
   [George Brown College](https://www.georgebrown.ca/)
