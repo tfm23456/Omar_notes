@@ -1,18 +1,18 @@
 # Number of rows
-  ! , exclamation mark
-  @ , at
-  \# , number, sharp, hashtag
-  $ , dollar sign
-  % , percentage
-  ^ , exponent
-  & , an
-  \* , asterisk, multiply
-  ( , opening bracket, parenthesis
-  ) , closing bracket, parenthesis
-  \- , minus, sutraction, dash
-  _ , underscore
-  = , equals
- \+ , addition, plus
+  * ! , exclamation mark
+  * @ , at
+  * \# , number, sharp, hashtag
+  * $ , dollar sign
+  * % , percentage
+  * ^ , exponent
+  * & , an
+  * \* , asterisk, multiply
+  * ( , opening bracket, parenthesis
+  * ) , closing bracket, parenthesis
+  * \- , minus, sutraction, dash
+  * _ , underscore
+  * = , equals
+  * \+ , addition, plus
 
 # Links
   [George Brown College](https://www.georgebrown.ca/)
