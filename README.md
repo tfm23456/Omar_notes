@@ -15,6 +15,7 @@
   * \+ , addition, plus
 
 # Links
+  [CLI commands](docs/cli.md)
   [George Brown College](https://www.georgebrown.ca/)
   [Github](https://github.com/)
   [Google](https://www.google.ca/)
